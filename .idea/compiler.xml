@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="buy" />
+        <module name="political" />
+        <module name="crm-political" />
+        <module name="hr" />
+        <module name="crm-sales" />
+        <module name="sales" />
+        <module name="vrmlstudio-admin" />
+        <module name="vrmlstudio-system" />
+        <module name="crm-customer" />
+        <module name="vrmlstudio-framework" />
+        <module name="crm-mytable" />
+        <module name="vrmlstudio-saas-modules" />
+        <module name="crm-supply" />
+        <module name="basicdata" />
+        <module name="vrmlstudio-crm" />
+        <module name="crm-finance" />
+        <module name="crm-system" />
+        <module name="crm-store" />
+        <module name="store" />
+        <module name="xsystem" />
+        <module name="crm-buy" />
+        <module name="crm-hr" />
+        <module name="mytable" />
+        <module name="vrmlstudio-tenant" />
+        <module name="crm-anay" />
+        <module name="crm-basicdata" />
+        <module name="vrmlstudio-common" />
+        <module name="finance" />
+        <module name="customer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basicdata" target="1.8" />
+      <module name="buy" target="1.8" />
+      <module name="crm-anay" target="1.5" />
+      <module name="crm-basicdata" target="1.5" />
+      <module name="crm-buy" target="1.5" />
+      <module name="crm-customer" target="1.5" />
+      <module name="crm-finance" target="1.5" />
+      <module name="crm-hr" target="1.5" />
+      <module name="crm-mytable" target="1.5" />
+      <module name="crm-political" target="1.5" />
+      <module name="crm-sales" target="1.5" />
+      <module name="crm-store" target="1.5" />
+      <module name="crm-supply" target="1.5" />
+      <module name="crm-system" target="1.5" />
+      <module name="customer" target="1.8" />
+      <module name="finance" target="1.8" />
+      <module name="hr" target="1.8" />
+      <module name="mytable" target="1.8" />
+      <module name="political" target="1.8" />
+      <module name="saas-crm" target="1.8" />
+      <module name="sales" target="1.8" />
+      <module name="store" target="1.8" />
+      <module name="vrmlstudio-admin" target="1.8" />
+      <module name="vrmlstudio-api-modules" target="1.8" />
+      <module name="vrmlstudio-common" target="1.8" />
+      <module name="vrmlstudio-crm" target="1.8" />
+      <module name="vrmlstudio-framework" target="1.8" />
+      <module name="vrmlstudio-saas-modules" target="1.5" />
+      <module name="vrmlstudio-system" target="1.8" />
+      <module name="vrmlstudio-tenant" target="1.8" />
+      <module name="xsystem" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

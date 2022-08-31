@@ -1,0 +1,11 @@
+INSERT INTO `sys_menu` VALUES (1061, '基础数据', 0, 5, 'crm-basicdata', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'color', 'admin', '2022-08-03 20:48:26', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1062, '采购管理', 0, 6, 'crm-buy', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'color', 'admin', '2022-08-03 20:57:50', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1063, '客户管理', 0, 7, 'crm-customer', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'dict', 'admin', '2022-08-03 20:58:54', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1064, '财务管理', 0, 8, 'crm-finance', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'code', 'admin', '2022-08-03 20:59:22', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1065, '人力资源', 0, 9, 'crm-hr', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'code', 'admin', '2022-08-03 20:59:55', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1066, '我的桌面', 0, 10, 'crm-mytable', NULL, NULL, 1, 0, 'M', '0', '0', '', 'color', 'admin', '2022-08-03 21:00:11', 'admin', '2022-08-03 21:04:12', '');
+INSERT INTO `sys_menu` VALUES (1067, '行政管理', 0, 11, 'crm-political', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'dict', 'admin', '2022-08-03 21:01:33', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1068, '销售管理', 0, 12, 'crm-sales', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'color', 'admin', '2022-08-03 21:01:50', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1069, '库存管理', 0, 13, 'crm-store', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'dict', 'admin', '2022-08-03 21:02:10', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1070, '供应商管理', 0, 14, 'crm-supply', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'color', 'admin', '2022-08-03 21:02:34', '', NULL, '');
+INSERT INTO `sys_menu` VALUES (1071, 'X系统管理', 0, 15, 'crm-system', NULL, NULL, 1, 0, 'M', '0', '0', NULL, 'color', 'admin', '2022-08-03 21:03:40', '', NULL, '');

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/basicdata/basicdata.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/basicdata/basicdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/buy/buy.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/buy/buy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-anay/crm-anay.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-anay/crm-anay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-basicdata/crm-basicdata.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-basicdata/crm-basicdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-buy/crm-buy.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-buy/crm-buy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-customer/crm-customer.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-customer/crm-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-finance/crm-finance.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-finance/crm-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-hr/crm-hr.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-hr/crm-hr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-mytable/crm-mytable.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-mytable/crm-mytable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-political/crm-political.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-political/crm-political.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-sales/crm-sales.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-sales/crm-sales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-store/crm-store.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-store/crm-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-supply/crm-supply.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-supply/crm-supply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/crm-system/crm-system.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/crm-system/crm-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/customer/customer.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/finance/finance.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/finance/finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/hr/hr.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/hr/hr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/mytable/mytable.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/mytable/mytable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/political/political.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/political/political.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-crm.iml" filepath="$PROJECT_DIR$/saas-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/sales/sales.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/sales/sales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/store/store.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/store/store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-admin/vrmlstudio-admin.iml" filepath="$PROJECT_DIR$/vrmlstudio-admin/vrmlstudio-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/vrmlstudio-api-modules.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/vrmlstudio-api-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common.iml" filepath="$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-crm/vrmlstudio-crm.iml" filepath="$PROJECT_DIR$/vrmlstudio-crm/vrmlstudio-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-framework/vrmlstudio-framework.iml" filepath="$PROJECT_DIR$/vrmlstudio-framework/vrmlstudio-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-saas-modules/vrmlstudio-saas-modules.iml" filepath="$PROJECT_DIR$/vrmlstudio-saas-modules/vrmlstudio-saas-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-system/vrmlstudio-system.iml" filepath="$PROJECT_DIR$/vrmlstudio-system/vrmlstudio-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-tenant/vrmlstudio-tenant.iml" filepath="$PROJECT_DIR$/vrmlstudio-tenant/vrmlstudio-tenant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrmlstudio-api-modules/xsystem/xsystem.iml" filepath="$PROJECT_DIR$/vrmlstudio-api-modules/xsystem/xsystem.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.vrmlstudio</groupId>
+    <artifactId>vrmlstudio-saas-modules</artifactId>
+    <version>1.0.0</version>
+
+    <dependencies>
+
+    </dependencies>
+
+    <modules>
+        <module>crm-anay</module>
+        <module>crm-basicdata</module>
+        <module>crm-buy</module>
+        <module>crm-customer</module>
+        <module>crm-finance</module>
+        <module>crm-hr</module>
+        <module>crm-mytable</module>
+        <module>crm-political</module>
+        <module>crm-sales</module>
+        <module>crm-store</module>
+        <module>crm-supply</module>
+        <module>crm-system</module>
+    </modules>
+
+</project>

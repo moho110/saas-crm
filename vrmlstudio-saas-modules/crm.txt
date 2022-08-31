@@ -1,0 +1,13 @@
+
+2022/07/28  19:27    <DIR>          crm-anay 
+2022/07/28  20:02    <DIR>          crm-basicdata  基础数据 crm-basicdata crm-basicdata:basicnotify:list
+2022/07/28  20:03    <DIR>          crm-buy        采购管理 crm-buy       crm-buy:buyplanmain:list
+2022/07/28  20:04    <DIR>          crm-customer   客户管理 crm-customer  
+2022/07/28  20:06    <DIR>          crm-finance    财务管理
+2022/07/28  20:07    <DIR>          crm-hr         人力资源
+2022/07/28  20:09    <DIR>          crm-mytable    我的桌面
+2022/07/28  20:09    <DIR>          crm-political  行政管理
+2022/07/28  20:09    <DIR>          crm-sales      销售管理
+2022/07/28  20:13    <DIR>          crm-store      库存管理
+	                            crm-supply     供应商管理
+2022/07/28  20:14    <DIR>          crm-system     系统管理
